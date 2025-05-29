@@ -32,7 +32,7 @@ Check out the [Docs](https://karpenter.sh/docs/) to learn more.
 - 05/14/2021 [Groupless Autoscaling with Karpenter @ Kubecon](https://www.youtube.com/watch?v=43g8uPohTgc)
 - 05/04/2021 [Karpenter @ Container Day](https://youtu.be/MZ-4HzOC_ac?t=7137)
 
-## youtube link(important-me)
+## youtube link for karpanter eks node autoscaling (important-me)
 - https://www.youtube.com/watch?v=fx99gyMw1uk&t=1315s
 
   
